@@ -9,3 +9,5 @@ NOTES for the project:
 
 
 Lookout to this software : https://www.youtube.com/watch?v=A5inlUEq_Uw
+
+Lookout for nnUNet : https://www.youtube.com/watch?v=KEe5sgGvA_8
