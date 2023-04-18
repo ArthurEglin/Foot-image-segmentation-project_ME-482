@@ -6,3 +6,6 @@ NOTES for the project:
 
 - create a 3D model of the foot on a STL file using the output masks of the segmentation. https://www.youtube.com/watch?v=NSyEbJ7Phis
 - 3D print the model : https://www.youtube.com/watch?v=e-lQPGJ3Psc
+
+
+Lookout to this software : https://www.youtube.com/watch?v=A5inlUEq_Uw
